@@ -1,0 +1,50 @@
+# main links
+main:
+  - title: "Docs"
+    url: /docs/introduction/
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /project/
+  - title: "About"
+    url: /about/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
+
+
+# documentation links
+docs:
+  - title: 说明
+    children:
+      - title: "简介"
+        url: /docs/introduction/
+      - title: "更新历史"
+        url: /docs/update-history/
+  - title: 认证与授权
+    children:
+      - title: "OAuth2.0认证"
+        url: /docs/authorization/
+  - title: 接口
+    children:
+      - title: "指令接口"
+        url: /docs/interface-command/
+      - title: "机器人接口"
+        url: /docs/interface-robot/
+      - title: "路点接口"
+        url: /docs/interface-waypoint/
+  - title: 功能
+    children:
+      - title: "demo1"
+        url: /docs/demo1/
+      - title: "demo2"
+        url: /docs/demo2/
+  - title: 生态
+    children:
+      - title: "demo3"
+        url: /docs/demo3/
+      - title: "demo4"
+        url: /docs/demo4/
+      - title: "License"
+        url: /docs/license/
+      - title: "Terms &amp; Privacy Policy"
+        url: /terms/
